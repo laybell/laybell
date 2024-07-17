@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a live web pages using php
 - 🌱 I’m currently wanting to improve on making my code succinct
-- ⚡ I plan to use NFC tags to improve my python skills
+- ⚡ I plan to use NFC tags to practice using my python skills
 
 
 

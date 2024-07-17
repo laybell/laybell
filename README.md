@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi I'm Léa 👋
+
+- 🔭 I’m currently working on on a ###live web page using php
+- 🌱 I’m currently wanting to ###improve on making my code succinct
+- ⚡ I plan to use ###NFC tags to improve my python skills
+
+
+---------------------------------------
 
 <!--
 **laybell/laybell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
